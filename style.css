@@ -1,0 +1,56 @@
+body {
+width:100%;
+height:50%;
+background-color: rgb(84, 194, 157);
+}
+#root {
+    position: absolute;
+    left: 7%;
+}
+
+#title {
+    width: 75%;
+    left: 12%;
+    position: relative;
+    background-color: aqua;
+    text-align: center;
+    border-radius:5px;
+    border-style: solid;
+    border-color: rgb(16, 41, 73);
+}
+.title_box {
+    border-radius: 77px;
+    border-style: ridge;
+    border-color: darkblue;
+    border-width: 5px;
+    border-bottom-width: 54px;
+    border-bottom-color: blueviolet;
+    background-color: rgba(153, 0, 255, 1);
+    position: relative;
+    height: 38%;
+    width: 150%;
+    top: 10px;
+    left: -18%;
+    padding-right: 2px;
+}
+#ID {
+ display: flex;
+ position: relative;
+ left: 27%;
+ background-color: rgb(99, 0, 153);
+ border-style: inset;
+ border-radius: 17%;
+ border-width: thick;
+ border-color: rgba(160, 111, 185, 0.39);
+}
+.Kampouse {position: relative;border-radius: 7px;border-style: inherit;border-color: rgb(145, 13, 171);left: 21%;top: -14px;text-align: center;background-color: #910dab;width: 56%;} 
+#id {
+    position: relative;
+    top: 7px;
+}
+
+.collum {
+  display: flex;
+  justify-content: space-around;
+  width: 150%;
+}
